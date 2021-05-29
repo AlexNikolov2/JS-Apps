@@ -1,1 +1,4 @@
 .
+ Exam was failed due to lack of attention. I put brackets on the Page.js import. 
+ 
+ Also node_modules folder is missing, because it turns out it's too big.
